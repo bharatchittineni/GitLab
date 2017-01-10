@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitLab
 {
-    class Branch
+    public class Branch1
     {
     }
 }
